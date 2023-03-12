@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CGPrakt1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGPrakt2">
+				<Option output="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/cmake-build-debug/CGPrakt2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 CGPrakt2"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGPrakt2/fast">
+				<Option output="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/cmake-build-debug/CGPrakt2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 CGPrakt2/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/include/CGUtilities.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/include/SimpleRayTracer.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/include/color.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/include/rgbimage.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/include/vector.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/lib/CGUtilities.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/lib/SimpleRayTracer.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/lib/color.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/lib/rgbimage.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/lib/vector.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/main.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/test/test1.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/test/test1.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/test/test2.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/test/test2.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/test/test3.cpp">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/test/test3.h">
+			<Option target="CGPrakt2"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

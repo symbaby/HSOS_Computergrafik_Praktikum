@@ -1,0 +1,11 @@
+# ninja log v5
+4	742	6719978812997199	CMakeFiles/CGPrakt2.dir/lib/color.cpp.obj	1c863c08669c7e2c
+1	778	6719978813337275	CMakeFiles/CGPrakt2.dir/main.cpp.obj	3e113c6048460a0c
+26	860	6719978814197475	CMakeFiles/CGPrakt2.dir/lib/SimpleRayTracer.cpp.obj	751b25690a201894
+6	796	6719978813537323	CMakeFiles/CGPrakt2.dir/test/test2.cpp.obj	18088574319e5308
+30	879	6719978814387510	CMakeFiles/CGPrakt2.dir/test/test3.cpp.obj	72eaaeb98fb049ce
+13	802	6719978813607365	CMakeFiles/CGPrakt2.dir/lib/rgbimage.cpp.obj	87ae980b7e8d72e5
+17	833	6719978813927414	CMakeFiles/CGPrakt2.dir/lib/vector.cpp.obj	dfd8f2a1e1fbe506
+9	855	6719978814157458	CMakeFiles/CGPrakt2.dir/test/test1.cpp.obj	eb1f568af11b3bd
+20	1095	6719978816548003	CMakeFiles/CGPrakt2.dir/lib/CGUtilities.cpp.obj	fdd22d7e0e7dfffc
+1096	1305	6719978818619627	CGPrakt2.exe	8b34a61f19f24ad0

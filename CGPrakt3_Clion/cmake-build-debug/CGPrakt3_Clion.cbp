@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CGPrakt3_Clion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGPrakt3_Clion">
+				<Option output="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/cmake-build-debug/CGPrakt3_Clion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/glfw/include"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/glew/include"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/freeimage/include"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/assimp/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 CGPrakt3_Clion"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGPrakt3_Clion/fast">
+				<Option output="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/cmake-build-debug/CGPrakt3_Clion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/glfw/include"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/glew/include"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/freeimage/include"/>
+					<Add directory="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/libraries/assimp/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 CGPrakt3_Clion/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\boery\source\repos\beryildiz\computergrafik\CGPrakt3_Clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/Aabb.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/Application.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/BaseModel.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/BaseShader.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/Camera.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/ConstantShader.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/IndexBuffer.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/LineBoxModel.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/LinePlaneModel.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/Matrix.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/Model.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/PhongShader.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/Texture.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/TriangleBoxModel.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/TrianglePlaneModel.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/TriangleSphereModel.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/VertexBuffer.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/color.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/rgbimage.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/include/vector.h">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/Aabb.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/Application.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/BaseModel.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/BaseShader.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/Camera.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/ConstantShader.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/IndexBuffer.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/LineBoxModel.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/LinePlaneModel.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/Matrix.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/Model.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/PhongShader.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/Texture.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/TriangleBoxModel.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/TrianglePlaneModel.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/TriangleSphereModel.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/VertexBuffer.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/color.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/main.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/rgbimage.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/source/vector.cpp">
+			<Option target="CGPrakt3_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/repos/beryildiz/computergrafik/CGPrakt3_Clion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

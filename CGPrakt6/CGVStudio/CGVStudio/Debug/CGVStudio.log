@@ -1,0 +1,4 @@
+﻿  Model.cpp
+C:\Users\boery\source\repos\computergrafik\CGPrakt6\src\Model.cpp(97,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\boery\source\repos\computergrafik\CGPrakt6\src\Model.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+  CGVStudio.vcxproj -> C:\Users\boery\source\repos\computergrafik\CGPrakt6\CGVStudio\Debug\CGVStudio.exe

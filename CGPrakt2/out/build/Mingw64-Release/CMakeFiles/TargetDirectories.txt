@@ -1,0 +1,3 @@
+C:/Users/boery/CLionProjects/computergrafik/CGPrakt2/out/build/Mingw64-Release/CMakeFiles/CGPrakt2.dir
+C:/Users/boery/CLionProjects/computergrafik/CGPrakt2/out/build/Mingw64-Release/CMakeFiles/edit_cache.dir
+C:/Users/boery/CLionProjects/computergrafik/CGPrakt2/out/build/Mingw64-Release/CMakeFiles/rebuild_cache.dir
